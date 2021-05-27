@@ -2,6 +2,7 @@
 
 # Bootcamp Santander e DIO
 Esse projeto foi desenvolvido na Santander Dev Week que teve inicio dia 24/05/2021<br /> 
+![](https://cdn.discordapp.com/attachments/771470980324524043/847594346516971520/dev-week.png)
 
 ![](https://cdn.discordapp.com/attachments/771470980324524043/847594651405385778/linha.png)<br /> 
 
